@@ -1,1 +1,1 @@
-# JS101
+This project is for JS101 batch 
